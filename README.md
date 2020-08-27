@@ -1,2 +1,2 @@
 # tic-tac-toe
-this is a game which is written in python . It is game played by a player against computer
+this is a game which is written in c programming language. It is game played by a player against computer
